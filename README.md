@@ -11,6 +11,6 @@ DR(Discount rate) - how much discount you get for your investment. This is tell 
 """Current issue with this is the formular doesn't work, gettig negative results for interest"""
 current formalar used 
 
-PP = FV x (1 - ((DRxT)/365))
-IE = FV - PP
-EAY = (FV/PP)^365/T -1
+PP = FV x (1 - ((DRxT)/365)) -------------------------------------
+IE = FV - PP -----------------------------------------------------
+EAY = (FV/PP)^365/T -1 -------------------------------------------
