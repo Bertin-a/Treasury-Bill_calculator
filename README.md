@@ -18,4 +18,11 @@ EAY = (FV/PP)^365/T -1 -------------------------------------------
 
 Task to add
 SQL database that stores the necessary values at midnight
+
 Frontend - for users
+
+To run application on your local machine
+1. Clone project
+2. Run source venv/bin/activate on your terminal to activate virtual environment
+3. Run  python .\TreasuryBillCalculator\Calculator.py on your terminal
+
